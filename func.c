@@ -35,7 +35,7 @@ int _print_a_string(va_list args)
 
 		return (i);
 	}
-	
+
 	_write('(');
 	_write('n');
 	_write('u');
